@@ -1,0 +1,35 @@
+{
+  "name": "quocphong-convert",
+  "version": "1.0.0",
+  "description": "quocphong-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocanh21/quocphong-convert.git"
+  },
+  "keywords": [
+    "quocphong-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "quocanh21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quocanh21/quocphong-convert/issues"
+  },
+  "homepage": "https://github.com/quocanh21/quocphong-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "quocphong-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+    "excel-utils-phuongdh": "^1.0.1",
+    "file-operations-dhp": "^1.0.2"
+  }
+}
